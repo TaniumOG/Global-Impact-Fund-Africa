@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://TaniumOG.github.io/Global-Impact-Fund-Africa/sitemap.xml

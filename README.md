@@ -1,1 +1,0 @@
-# Global-Impact-Fund-Africa
