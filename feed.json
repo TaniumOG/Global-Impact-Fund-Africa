@@ -21,20 +21,6 @@
             ],
             "date_published": "2023-05-11T23:23:10+02:00",
             "date_modified": "2023-05-11T23:29:29+02:00"
-        },
-        {
-            "id": "https://gifa.africa-growth.com/test.html",
-            "url": "https://gifa.africa-growth.com/test.html",
-            "title": "test ",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gifa.africa-growth.com/media/posts/2/ZIE-POP-Muchatuta-Tawana.jpg\" alt=\"\" width=\"3024\" height=\"4032\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-xs.jpg 300w ,https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-sm.jpg 480w ,https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-md.jpg 768w ,https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-lg.jpg 1024w\"></figure>",
-            "image": "https://gifa.africa-growth.com/media/posts/2/ZIE-POP-Muchatuta-Tawana-2.jpg",
-            "author": {
-                "name": "Africa Growth LLC"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-10T23:41:00+02:00",
-            "date_modified": "2023-05-11T23:43:28+02:00"
         }
     ]
 }
