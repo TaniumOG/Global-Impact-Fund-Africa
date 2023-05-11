@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Global Impact Fund Africa</title>
-    <link href="https://TaniumOG.github.io/taniumog.github.io/feed.xml" rel="self" />
-    <link href="https://TaniumOG.github.io/taniumog.github.io" />
+    <link href="https://gifa.africa-growth.com/feed.xml" rel="self" />
+    <link href="https://gifa.africa-growth.com" />
     <updated>2023-05-11T23:43:28+02:00</updated>
     <author>
         <name>Africa Growth LLC</name>
     </author>
-    <id>https://TaniumOG.github.io/taniumog.github.io</id>
+    <id>https://gifa.africa-growth.com</id>
 
     <entry>
         <title>Investing in African Social Enterprise</title>
         <author>
             <name>Africa Growth LLC</name>
         </author>
-        <link href="https://TaniumOG.github.io/taniumog.github.io/investing-in-african-social-enterprise.html"/>
-        <id>https://TaniumOG.github.io/taniumog.github.io/investing-in-african-social-enterprise.html</id>
+        <link href="https://gifa.africa-growth.com/investing-in-african-social-enterprise.html"/>
+        <id>https://gifa.africa-growth.com/investing-in-african-social-enterprise.html</id>
 
         <updated>2023-05-11T23:29:29+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://TaniumOG.github.io/taniumog.github.io/media/posts/1/pexels-blue-ox-studio-2014342.jpg" alt="" width="1451" height="966" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-xs.jpg 300w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-sm.jpg 480w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-md.jpg 768w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-lg.jpg 1024w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://gifa.africa-growth.com/media/posts/1/pexels-blue-ox-studio-2014342.jpg" alt="" width="1451" height="966" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-xs.jpg 300w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-sm.jpg 480w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-md.jpg 768w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-lg.jpg 1024w"></figure>
 <p> </p>
             ]]>
         </content>
@@ -31,16 +31,16 @@
         <author>
             <name>Africa Growth LLC</name>
         </author>
-        <link href="https://TaniumOG.github.io/taniumog.github.io/test.html"/>
-        <id>https://TaniumOG.github.io/taniumog.github.io/test.html</id>
-        <media:content url="https://TaniumOG.github.io/taniumog.github.io/media/posts/2/ZIE-POP-Muchatuta-Tawana-2.jpg" medium="image" />
+        <link href="https://gifa.africa-growth.com/test.html"/>
+        <id>https://gifa.africa-growth.com/test.html</id>
+        <media:content url="https://gifa.africa-growth.com/media/posts/2/ZIE-POP-Muchatuta-Tawana-2.jpg" medium="image" />
 
         <updated>2023-05-11T23:43:28+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://TaniumOG.github.io/taniumog.github.io/media/posts/2/ZIE-POP-Muchatuta-Tawana-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://TaniumOG.github.io/taniumog.github.io/media/posts/2/ZIE-POP-Muchatuta-Tawana.jpg" alt="" width="3024" height="4032" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-xs.jpg 300w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-sm.jpg 480w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-md.jpg 768w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-lg.jpg 1024w"></figure>
+                    <p><img src="https://gifa.africa-growth.com/media/posts/2/ZIE-POP-Muchatuta-Tawana-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://gifa.africa-growth.com/media/posts/2/ZIE-POP-Muchatuta-Tawana.jpg" alt="" width="3024" height="4032" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-xs.jpg 300w ,https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-sm.jpg 480w ,https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-md.jpg 768w ,https://gifa.africa-growth.com/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
