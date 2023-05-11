@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Global Impact Fund Africa",
+    "description": "",
+    "home_page_url": "https://TaniumOG.github.io/taniumog.github.io",
+    "feed_url": "https://TaniumOG.github.io/taniumog.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Africa Growth LLC"
+    },
+    "items": [
+        {
+            "id": "https://TaniumOG.github.io/taniumog.github.io/investing-in-african-social-enterprise.html",
+            "url": "https://TaniumOG.github.io/taniumog.github.io/investing-in-african-social-enterprise.html",
+            "title": "Investing in African Social Enterprise",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://TaniumOG.github.io/taniumog.github.io/media/posts/1/pexels-blue-ox-studio-2014342.jpg\" alt=\"\" width=\"1451\" height=\"966\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-xs.jpg 300w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-sm.jpg 480w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-md.jpg 768w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/1/responsive/pexels-blue-ox-studio-2014342-lg.jpg 1024w\"></figure>\n<p> </p>",
+            "author": {
+                "name": "Africa Growth LLC"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-11T23:23:10+02:00",
+            "date_modified": "2023-05-11T23:29:29+02:00"
+        },
+        {
+            "id": "https://TaniumOG.github.io/taniumog.github.io/test.html",
+            "url": "https://TaniumOG.github.io/taniumog.github.io/test.html",
+            "title": "test ",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://TaniumOG.github.io/taniumog.github.io/media/posts/2/ZIE-POP-Muchatuta-Tawana.jpg\" alt=\"\" width=\"3024\" height=\"4032\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-xs.jpg 300w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-sm.jpg 480w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-md.jpg 768w ,https://TaniumOG.github.io/taniumog.github.io/media/posts/2/responsive/ZIE-POP-Muchatuta-Tawana-lg.jpg 1024w\"></figure>",
+            "image": "https://TaniumOG.github.io/taniumog.github.io/media/posts/2/ZIE-POP-Muchatuta-Tawana-2.jpg",
+            "author": {
+                "name": "Africa Growth LLC"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-10T23:41:00+02:00",
+            "date_modified": "2023-05-11T23:43:28+02:00"
+        }
+    ]
+}

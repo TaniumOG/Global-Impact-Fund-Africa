@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://TaniumOG.github.io/taniumog.github.io/sitemap.xml
