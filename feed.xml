@@ -3,12 +3,42 @@
     <title>Global Impact Fund Africa</title>
     <link href="https://gifa.africa-growth.com/feed.xml" rel="self" />
     <link href="https://gifa.africa-growth.com" />
-    <updated>2023-05-11T23:29:29+02:00</updated>
+    <updated>2023-05-12T15:35:28+02:00</updated>
     <author>
         <name>Africa Growth LLC</name>
     </author>
     <id>https://gifa.africa-growth.com</id>
 
+    <entry>
+        <title>Fund Details</title>
+        <author>
+            <name>Africa Growth LLC</name>
+        </author>
+        <link href="https://gifa.africa-growth.com/fund-details.html"/>
+        <id>https://gifa.africa-growth.com/fund-details.html</id>
+        <media:content url="https://gifa.africa-growth.com/media/posts/3/placement.png" medium="image" />
+
+        <updated>2023-05-12T15:35:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gifa.africa-growth.com/media/posts/3/placement.png" alt="" />
+                    Fund Size USD 10 Miliion 3.5x net financial returns for our investors Health, Agritech, Water, Energy, Fintech and Social Mobility Lead in Seed, participate&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gifa.africa-growth.com/media/posts/3/placement.png" class="type:primaryImage" alt="" /></p>
+                <h2>Fund Size</h2>
+<p>USD 10 Miliion</p>
+<h2>MOIC Target</h2>
+<p>3.5x net financial returns for our investors</p>
+<h2>Sectors</h2>
+<p>Health, Agritech, Water, Energy, Fintech and Social Mobility</p>
+<h2>Stage</h2>
+<p>Lead in Seed, participate in Series A</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Investing in African Social Enterprise</title>
         <author>
@@ -16,14 +46,10 @@
         </author>
         <link href="https://gifa.africa-growth.com/investing-in-african-social-enterprise.html"/>
         <id>https://gifa.africa-growth.com/investing-in-african-social-enterprise.html</id>
+        <media:content url="https://gifa.africa-growth.com/media/posts/1/pexels-blue-ox-studio-2014342-2.jpg" medium="image" />
 
-        <updated>2023-05-11T23:29:29+02:00</updated>
+        <updated>2023-05-12T14:54:36+02:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://gifa.africa-growth.com/media/posts/1/pexels-blue-ox-studio-2014342.jpg" alt="" width="1451" height="966" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-xs.jpg 300w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-sm.jpg 480w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-md.jpg 768w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-lg.jpg 1024w"></figure>
-<p> </p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>

@@ -5,22 +5,38 @@
     "home_page_url": "https://gifa.africa-growth.com",
     "feed_url": "https://gifa.africa-growth.com/feed.json",
     "user_comment": "",
+    "icon": "https://gifa.africa-growth.com/media/website/global-impoact-fund.jpeg",
     "author": {
         "name": "Africa Growth LLC"
     },
     "items": [
         {
+            "id": "https://gifa.africa-growth.com/fund-details.html",
+            "url": "https://gifa.africa-growth.com/fund-details.html",
+            "title": "Fund Details",
+            "summary": "Fund Size USD 10 Miliion 3.5x net financial returns for our investors Health, Agritech, Water, Energy, Fintech and Social Mobility Lead in Seed, participate&hellip;",
+            "content_html": "<h2>Fund Size</h2>\n<p>USD 10 Miliion</p>\n<h2>MOIC Target</h2>\n<p>3.5x net financial returns for our investors</p>\n<h2>Sectors</h2>\n<p>Health, Agritech, Water, Energy, Fintech and Social Mobility</p>\n<h2>Stage</h2>\n<p>Lead in Seed, participate in Series A</p>",
+            "image": "https://gifa.africa-growth.com/media/posts/3/placement.png",
+            "author": {
+                "name": "Africa Growth LLC"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-12T15:04:00+02:00",
+            "date_modified": "2023-05-12T15:35:28+02:00"
+        },
+        {
             "id": "https://gifa.africa-growth.com/investing-in-african-social-enterprise.html",
             "url": "https://gifa.africa-growth.com/investing-in-african-social-enterprise.html",
             "title": "Investing in African Social Enterprise",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gifa.africa-growth.com/media/posts/1/pexels-blue-ox-studio-2014342.jpg\" alt=\"\" width=\"1451\" height=\"966\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-xs.jpg 300w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-sm.jpg 480w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-md.jpg 768w ,https://gifa.africa-growth.com/media/posts/1/responsive/pexels-blue-ox-studio-2014342-lg.jpg 1024w\"></figure>\n<p> </p>",
+            "image": "https://gifa.africa-growth.com/media/posts/1/pexels-blue-ox-studio-2014342-2.jpg",
             "author": {
                 "name": "Africa Growth LLC"
             },
             "tags": [
             ],
             "date_published": "2023-05-11T23:23:10+02:00",
-            "date_modified": "2023-05-11T23:29:29+02:00"
+            "date_modified": "2023-05-12T14:54:36+02:00"
         }
     ]
 }
